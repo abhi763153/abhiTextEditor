@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+/* .container{
+  margin: 0 auto;
+  width: 90%;
+  height: 30vh;
+  border: 3px solid #282c34;
+  background-image: radial-gradient(rgb(149, 149, 216), skyblue);
+} */
