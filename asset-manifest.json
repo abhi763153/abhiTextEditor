@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/abhiTextEditor/static/css/main.9927b465.chunk.css",
+    "main.js": "/abhiTextEditor/static/js/main.811955f0.chunk.js",
+    "main.js.map": "/abhiTextEditor/static/js/main.811955f0.chunk.js.map",
+    "runtime-main.js": "/abhiTextEditor/static/js/runtime-main.43facf3a.js",
+    "runtime-main.js.map": "/abhiTextEditor/static/js/runtime-main.43facf3a.js.map",
+    "static/js/2.70fb34cf.chunk.js": "/abhiTextEditor/static/js/2.70fb34cf.chunk.js",
+    "static/js/2.70fb34cf.chunk.js.map": "/abhiTextEditor/static/js/2.70fb34cf.chunk.js.map",
+    "static/js/3.f6a25c46.chunk.js": "/abhiTextEditor/static/js/3.f6a25c46.chunk.js",
+    "static/js/3.f6a25c46.chunk.js.map": "/abhiTextEditor/static/js/3.f6a25c46.chunk.js.map",
+    "index.html": "/abhiTextEditor/index.html",
+    "static/css/main.9927b465.chunk.css.map": "/abhiTextEditor/static/css/main.9927b465.chunk.css.map",
+    "static/js/2.70fb34cf.chunk.js.LICENSE.txt": "/abhiTextEditor/static/js/2.70fb34cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43facf3a.js",
+    "static/js/2.70fb34cf.chunk.js",
+    "static/css/main.9927b465.chunk.css",
+    "static/js/main.811955f0.chunk.js"
+  ]
+}
