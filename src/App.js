@@ -55,7 +55,7 @@ function App() {
           
           {/* <Route  exact path="/"> */}
             <div className="container">
-              <TextForm heading="Enter the text to Analyze below" alert={showAlert} mode={mode}/>   
+              <TextForm heading="Enter the text to Modify it" alert={showAlert} mode={mode}/>   
             </div> 
           {/* </Route> */}
       {/* </Switch> */}
